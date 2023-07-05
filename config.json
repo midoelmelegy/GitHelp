@@ -1,20 +1,20 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "GitHelp",
+  "name": "www.githelp.xyz",
+  "ascii": "githelp",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "ChatGPT",
+    "linkedin": "website"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "contact@githelp.xyz",
+  "ps1_hostname": "githelp",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://githelp.xyz",
+  "resume_url": "https://githelp.xyz/#/chat",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://githelp.xyz",
+    "patreon": "https://githelp.xyz"
   },
   "colors": {
     "light": {
